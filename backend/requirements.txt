@@ -1,0 +1,11 @@
+langchain
+langchain_community
+python_dotenv
+langchain_core
+langgraph
+langgraph_prebuilt
+
+langchain_ollama
+fastapi
+uvicorn
+ollama
